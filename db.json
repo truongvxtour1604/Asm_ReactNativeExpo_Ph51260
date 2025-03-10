@@ -1,0 +1,21 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Vũ Xuân Trường",
+      "email": "truongvxph51260@gmail.com",
+      "mobile": "0973919569",
+      "password": "12345678"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "image": "https://cafefabrique.com/cdn/shop/articles/Cappuccino.jpg",
+      "name": "Cappuchino",
+      "description": "With Steamed Milk",
+      "detail": "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top.",
+      "price": "9.9"
+    }
+  ]
+}
