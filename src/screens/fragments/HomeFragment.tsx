@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     },
     topNav: {
         flexDirection: 'row',
-        justifyContent: 'space-between', // Chia khoảng giữa chữ và avatar
+        justifyContent: 'space-between',
         alignItems: 'center',
         paddingVertical: 10,
         marginTop: 20

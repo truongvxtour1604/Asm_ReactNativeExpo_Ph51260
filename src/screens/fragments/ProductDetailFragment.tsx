@@ -72,13 +72,7 @@ const styles = StyleSheet.create({
   description: { color: '#000', marginVertical: 10 },
   sizeText: { color: '#000', fontSize: 16, marginTop: 10 },
   sizeContainer: { flexDirection: 'row', marginVertical: 10 },
-  sizeButton: {
-    padding: 10,
-    borderWidth: 1,
-    borderColor: '#000',
-    borderRadius: 5,
-    marginRight: 10
-  },
+  sizeButton: { padding: 10, borderWidth: 1, borderColor: '#000', borderRadius: 5, marginRight: 10 },
   selectedSize: { backgroundColor: '#ff8c00' },
   sizeButtonText: { color: '#000' },
   footer: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
